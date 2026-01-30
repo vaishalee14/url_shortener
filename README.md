@@ -104,3 +104,18 @@ The SuperAdmin user is created via a database seeder.
 
 5️⃣ Start the Application
 php artisan serve
+
+## Acceptable AI Usage Declaration
+
+I confirm that AI tools were used in a limited, ethical, and supportive capacity during the
+completion of this assignment. Their use was restricted to syntax reference, debugging
+assistance, and clarification of framework-specific concepts.
+
+**AI tools used and purpose:**
+- **ChatGPT** – Referenced for Laravel syntax verification, understanding Eloquent
+  relationship concepts, and resolving isolated implementation issues.
+
+All core logic, architectural decisions, workflow design, and final implementation were
+independently developed by me. The submitted work represents my own technical
+understanding, reasoning ability, and problem-solving skills, with AI tools serving solely
+as a productivity and learning aid, not as a replacement for original effort.
